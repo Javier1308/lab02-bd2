@@ -1,0 +1,10 @@
+P1_teoria.py
+P2_teoria.py
+Fijo2_teoria.py
+
+*.pdf
+*.md
+
+__pycache__/
+*.pyc
+*.dat
